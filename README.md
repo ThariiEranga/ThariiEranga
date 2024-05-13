@@ -1,3 +1,4 @@
+ <img align="right"  src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif"  alt="c" width="500" height="250" />
 <h1 align="center">Hi 👋, I'm Tharindu Eranga</h1>
 <h3 align="center">A passionate frontend developer from Sri lanka</h3>
 <hr/>
