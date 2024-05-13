@@ -1,7 +1,8 @@
- <img align="right"  src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif"  alt="c" width="400" height="250" />
-<h1 align="center">Hi 👋, I'm Tharindu Eranga</h1>
-<h3 align="center">A passionate frontend developer from Sri lanka</h3>
-<hr/>
+ 
+<h1 align="left">Hi 👋, I'm Tharindu Eranga</h1>
+<img align="right"  src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif"  alt="c" width="400" height="250" />
+<h3 align="left" >A passionate frontend developer from Sri lanka</h3>
+<br/>
 - 🌱 I’m currently learning **python**
 
 - 💬 Ask me about **mern, java, c, c++**
@@ -9,8 +10,9 @@
 - 📫 How to reach me **iamtharindunawarathne@gmail.com**
 
 - ⚡ Fun fact **call me as Tharii😉**
-  <hr/>
 
+  <br/>
+  <br/><br/>
   <p align="center">
   <!--- stats (start) -->
 <table align="center">
