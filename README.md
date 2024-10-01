@@ -2,7 +2,7 @@
 <p align="center"><a href="https://github.com/shamimsikder"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+Tharindu+Eranga;Undergraduate+student+@+SLIIT;Love+to+Code+and+Play+Games" alt="Typing SVG" /></a></p>
 <img align="right"  src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif"  alt="c" width="400" height="250" />
 <br/>
-- 🌱 I’m currently learning <b>python</b>
+- 🌱 I’m currently learning <b>React native</b>
 
 - 💬 Ask me about **mern, java, c, c++**
 
